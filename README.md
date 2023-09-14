@@ -1,2 +1,2 @@
 # CVIP Python (Shera Bhai)
-Repo containing all projects source code that I submitted during my CodersCave Python Development Internship!
+Containing All Projects Source Code that I Submitted During My CodersCave Python Development Internship!
