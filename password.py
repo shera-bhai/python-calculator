@@ -7,8 +7,8 @@ import customtkinter
 def gen_pass():
     data.delete(0, customtkinter.END)
     if sel.get() == "Length":
-        tkinter.messagebox.showerror("Error", "Choose the Length")
         print(">>> Error Occured!")
+        tkinter.messagebox.showerror("Error", "Choose the Length")
     else:
         len = int(sel.get())
         passwd = ""
@@ -16,14 +16,13 @@ def gen_pass():
         for i in range(0, len):
                 passwd = passwd + random.choice(val)
         data.insert(customtkinter.END, passwd)
-        print(">>> Password Generated Successfully!")
-        print(">>>", passwd)
+        print(">>> Generated Password:", passwd)
 
 def copy_pass():
     passwd = data.get()
     pyperclip.copy(passwd)
-    tkinter.messagebox.showinfo("Copy", "Password Copied")
     print(">>> Password Copied Successfully!")
+    tkinter.messagebox.showinfo("Copy", "Password Copied")
 
 customtkinter.set_appearance_mode("system")
 customtkinter.set_default_color_theme("blue")
