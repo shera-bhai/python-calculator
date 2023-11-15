@@ -2,7 +2,7 @@
 
 A simple GUI-based calculator built using Python with the Tkinter library.
 
-![Calculator Screenshot]([https://cdn.discordapp.com/attachments/853145673275932702/1174409648200224868/Screenshot_2023-11-15_233359.png?ex=65677d37&is=65550837&hm=5b8efaf722e3f314d58004affb0550120be3b56e804f4d2a5f2f0937c014d7c8&])
+![Calculator Screenshot](https://cdn.discordapp.com/attachments/853145673275932702/1174409648200224868/Screenshot_2023-11-15_233359.png)
 
 ## Features
 
