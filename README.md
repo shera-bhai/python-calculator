@@ -1,20 +1,18 @@
 # GUI-Based Python Calculator
 
-A simple GUI-based calculator built using Python with the Tkinter library.
-
-![Calculator Screenshot](https://cdn.discordapp.com/attachments/853145673275932702/1174409648200224868/Screenshot_2023-11-15_233359.png)
+A Simple GUI-Based Calculator built using Python with the Tkinter Library.
 
 ## Features
 
 - Addition, subtraction, multiplication, and division operations.
 - Clear button to reset the input.
 - Decimal point support for floating-point numbers.
-- Responsive GUI design.
+- Responsive GUI Design.
 
 ## Requirements
 
 - Python 3.x
-- Tkinter library (usually included with Python)
+- Tkinter library (included with Python)
 
 ## Installation
 
@@ -41,20 +39,19 @@ A simple GUI-based calculator built using Python with the Tkinter library.
 1. Enter numbers using the on-screen buttons.
 2. Use the operation buttons (+, -, *, /) to perform calculations.
 3. Press the "=" button to get the result.
-4. Click the "C" button to clear the input.
+4. Click the "X" button to clear the input.
 
 ## Screenshots
 
-![Screenshot 1](./images/screenshot1.png)
-![Screenshot 2](./images/screenshot2.png)
+![Screenshot 1](https://cdn.discordapp.com/attachments/853145673275932702/1174409648200224868/Screenshot_2023-11-15_233359.png)
 
 ## Contributing
 
-Feel free to contribute to the development of this calculator. Fork the repository and submit a pull request.
+Feel free to contribute to the development of this Calculator. Fork the repository and submit a pull request.
 
-## License
+## Developer
 
-This project is licensed under the [MIT License](LICENSE).
+This project is solely Developed & Maintained by [Shera Bhai](https://github.com/shera-bhai)
 
 ---
 
