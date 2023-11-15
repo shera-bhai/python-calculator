@@ -28,10 +28,16 @@ A Simple GUI-Based Calculator built using Python with the Tkinter Library.
     cd python-calculator
     ```
 
-3. Run the calculator:
+3. Install the required libraries:
 
     ```bash
-    start calculator.exe
+    pip install -r requirements.txt
+    ```
+
+4. Run the Calculator:
+
+    ```bash
+    python calculator.py
     ```
 
 ## Usage
