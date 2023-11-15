@@ -19,7 +19,7 @@ A Simple GUI-Based Calculator built using Python with the Tkinter Library.
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/python-calculator.git
+    git clone https://github.com/shera-bhai/python-calculator.git
     ```
 
 2. Change into the project directory:
@@ -31,7 +31,7 @@ A Simple GUI-Based Calculator built using Python with the Tkinter Library.
 3. Run the calculator:
 
     ```bash
-    python calculator.py
+    start calculator.exe
     ```
 
 ## Usage
