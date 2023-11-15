@@ -9,10 +9,14 @@ A Simple GUI-Based Calculator built using Python with the Tkinter Library.
 - Decimal point support for floating-point numbers.
 - Responsive GUI Design.
 
+## Screenshots
+
+![Screenshot 1](https://cdn.discordapp.com/attachments/853145673275932702/1174409648200224868/Screenshot_2023-11-15_233359.png)
+
 ## Requirements
 
 - Python 3.x
-- Tkinter library (included with Python)
+- Tkinter Library (included with Python)
 
 ## Installation
 
@@ -46,10 +50,6 @@ A Simple GUI-Based Calculator built using Python with the Tkinter Library.
 2. Use the operation buttons (+, -, *, /) to perform calculations.
 3. Press the "=" button to get the result.
 4. Click the "X" button to clear the input.
-
-## Screenshots
-
-![Screenshot 1](https://cdn.discordapp.com/attachments/853145673275932702/1174409648200224868/Screenshot_2023-11-15_233359.png)
 
 ## Contributing
 
