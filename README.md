@@ -1,6 +1,6 @@
-# GUI-Based Python Calculator
+# Modern GUI Python Calculator
 
-A Simple GUI-Based Calculator built using Python with the Tkinter Library.
+A Modern GUI Calculator built using Python.
 
 ## Features
 
